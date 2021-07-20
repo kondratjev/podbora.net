@@ -1,0 +1,2449 @@
+[
+  {
+    "id": 105544,
+    "name": "Радиус",
+    "description": "Мы специализируемся на ремонте автомобилей иностранного производства! У нас работают мастера имеющие обширный опыт по диагностике, ремонту и техническому обслуживанию автомобилей. Все мастера проходили обучение и имеют многолетний  опыт работы!\nНаш секрет качества в том, что каждый мастер работает на себя и свое доброе имя!\nЧастная автомастерская по истине с добрыми ценами и особо бережным отношением к каждому клиенту! \nМы бережно примем в автосервис  Ваш автомобиль и предоставим такие услуги как:\nШиномонтаж, наномойка,\nВсе виды слесарных работ\nЗаправка кондиционеров\nДиагностика и ремонт ходовой\nЗамена ремней и цепей ГРМ\nКомпьютерная диагностика \nЗапчасти в наличии и под заказ\nи многое другое.... \nЗапись по телефонам\n 89370632555 - Дмитрий\n 89297170006 - Константин",
+    "address": "Россия, Самара, Арцыбушевский переулок, 14",
+    "lat": 53.228271,
+    "long": 50.187267,
+    "rating": 10,
+    "review_count": 12,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 12
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.228271, "long": 50.187267 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 184523,
+    "name": "Автосервис DESBO",
+    "description": "Автосервис для иномарок в Самаре.\nПроведем техническое обслуживание и ремонт дешевле, чем у официалов на 60%. \nНаши мастера проработали у официального дилера больше 10 лет.\n\nАвтозапчасти и автосервис для иномарок юридическим и частным лицам. Работаем с НДС.\n\nЗапчасти дешевле, чем у официалов на 25%. Быстрая доставка от 1 часа, благодаря 9 машинам в день с 4 складов в Самаре с общим наличием 150 000 позиций.\n\nГарантия на запчасти 6 месяцев, при установке в нашем автосервисе.\n\nг. Самара, Средний проезд 30,  Автосервис DESBO\n\nРаботаем в будни с 9:00 до 19:00, по субботам с 10:00 до 16:00\n\n8 (846) 300-49-13\nEmail: info@desbo.ru\nViber, WhatsApp, SMS: 8 937 992-22-91",
+    "address": "Самара, Средний проезд, 30",
+    "lat": 53.19857,
+    "long": 50.202448,
+    "rating": 10,
+    "review_count": 7,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 7
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.19857, "long": 50.202448 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 217949,
+    "name": "ПрофАвто",
+    "description": "Ремонт двигателей, кпп,ходовой, компьютерная диагностика, шиномонтаж",
+    "address": "Самара, Россия, Ново-Вокзальная улица, дом 155",
+    "lat": 53.232869,
+    "long": 50.225086,
+    "rating": 10,
+    "review_count": 6,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 6
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.232869, "long": 50.225086 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 20452,
+    "name": "АвтоОкей",
+    "description": "",
+    "address": "Самара, Вольская улица, 104",
+    "lat": 53.222395,
+    "long": 50.248945,
+    "rating": 10,
+    "review_count": 5,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 5
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.222395, "long": 50.248945 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 29939,
+    "name": "АВТОБОКС 63",
+    "description": "КУЗОВНОЙ РЕМОНТ В САМАРЕ АВТОБОКС 63(\nАВТОБОКС 63  качественный кузовной ремонт в Самаре от профессионалов\nНаш автосервис работает с 2001 года. За этот период у нас сложилась прекрасная команда профессионалов и специалистов с высоким уровнем квалификации и огромным опытом работы. Изначально наш сервис специализировался на предоставлении услуг кузовного ремонта, постепенно сфера нашей деятельности расширялась и сегодня мы можем предложить своим клиентам довольно широкий спектр ремонтных услуг.\nВ нашем автосервисе доступны:\nРазличные по сложности виды кузовного ремонта.\nВыполнение сварочных работ.\nПроведение ремонта, восстановления или замены различных запчастей автомобиля или элементов кузова.\nРазнообразные виды работ, направленные на восстановление или обновление лакокрасочного покрытия автомобиля, начиная полировкой корпуса и заканчивая покраской бампера.\nУслуги по восстановлению целостности и правильной геометрии корпуса, а также устранению разнообразных дефектов: трещин, сколов или царапин.\nКонсультации специалистов по вопросам подбора и замены отдельных запчастей, услуги по реализации деталей высокого качества для различных марок и моделей автомобилей независимо от года выпуска.",
+    "address": "Самара, Олимпийская улица, 57Бс2",
+    "lat": 53.239294,
+    "long": 50.289495,
+    "rating": 10,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.239294, "long": 50.289495 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 19:00",
+      "weekends_time": "09:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 19008,
+    "name": "Бестгуд",
+    "description": "УСЛУГИ МАГАЗИНА И АВТОСЕРВИСА:\n1.ПРОДАЖА НОВЫХ ШИН И ДИСКОВ \n\n2.ПРОДАЖА АВТОМАСЕЛ\n3.ЭКСПРЕСС ЗАМЕНА МАСЛА \n\nПокраски, кузовного нет",
+    "address": "Самара, 5-я просека, 97Б, пом.57",
+    "lat": 53.243772,
+    "long": 50.18309,
+    "rating": 10,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.243772, "long": 50.18309 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 20473,
+    "name": "Автоокей Алма Атинская",
+    "description": "89277127656 - общий оператор по механичке\nобщая - 300 кв.м, слесарные кузовные работы,\n89270051015 - кузовной мастер Олег",
+    "address": "Самара, Алма-Атинская улица, 42",
+    "lat": 53.257473,
+    "long": 50.26401,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.257473, "long": 50.26401 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 22380,
+    "name": "ЛогикАвто",
+    "description": "",
+    "address": "Самара, Силовая улица, 11",
+    "lat": 53.244311,
+    "long": 50.20632,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.244311, "long": 50.20632 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 605630,
+    "name": "ООО \"Авто-Союз\"",
+    "description": "Кузовной ремонт любой сложности, стапельные работы, покрасочная камера, гарантия на проделанные работы 6 месяцев.",
+    "address": "ул. Битумная, 3, Самара, Самарская обл., Россия, 443017",
+    "lat": 53.178562,
+    "long": 50.194519,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.178562, "long": 50.194519 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 128639,
+    "name": "Автосервис АВМ",
+    "description": "Наш автосервис готов предложить Вам качественные услуги по ценам, которые Вас приятно удивят!    (не правильный номер).\nРемонт иномарок (ДВС, АКПП, МКПП, подвеска, рулевое управление, тормозная система, ремонт генераторов и стартеров). На все работы предоставляем гарантию.\nЗапчасти для иномарок. Установка с гарантией.\nШиномонтаж\nСварочные работы\nАвтомойка",
+    "address": "Самара, проспект Кирова, д.320 корп. 1",
+    "lat": 53.254618,
+    "long": 50.218429,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.254618, "long": 50.218429 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 10012,
+    "name": "Трасса 66",
+    "description": "Мы предлагаем нашим клиентам качественные услуги по ремонту двигателя капитальный ремонт, замена узлов, трансмиссии переборка КПП, замена и подвески вашего автомобиля.\nРемонт и замена рулевого управления автомобилей, замена масла и смазочных материалов, электротехнические работы, ремонт и обслуживание топливной системы и бензонасосов, ремонт и заправка автомобильных кондиционеров.",
+    "address": "Самара, улица Авроры, 114Ак6",
+    "lat": 53.213164,
+    "long": 50.218699,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.213164, "long": 50.218699 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 23333,
+    "name": "АвтоМотоКлиника",
+    "description": "78469909808   предрейсовый техосмотр, заправка автокондиционера, ремонт тормозной системы, ремонт КПП, ремонт двигателя, замена масла, ремонт ходовой части, ремонт стартеров, компьютерная диагностика автомобиля, ремонт автоэлектрики, чистка форсунок, промывка инжектора, ремонт КПП, ремонт генераторов, полировка, ремонт форсунок, ремонт карданных валов, ремонт топливной системы",
+    "address": "Самара, Дальняя улица, 1",
+    "lat": 53.267109,
+    "long": 50.237483,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.267109, "long": 50.237483 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 802669,
+    "name": "ИП Саликов",
+    "description": "Кузовные работы в Самаре\nНизкие цены! Окраска от 3000р. за элемент. Находимся на пересечении ул. Алма-Атинской и Стара-Загора",
+    "address": "ул. Стара-Загора, Самара, Самарская обл., Россия",
+    "lat": 53.25654,
+    "long": 50.266089,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.25654, "long": 50.266089 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 20:00",
+      "weekends_time": "09:00 - 20:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 29745,
+    "name": "Арт-гараж",
+    "description": "Тонировка автомобилей   ИЛЬЯ\nАнтигравийная, защитная плёнка на авто\nВинил на авто\nУстановка автосигнализаций\nУстановка автомобильных охранных комплексов\nПродажа сигнализаций\nПорошковая покраска дисков\nАрхитектурное тонирование\nЭлектрохромные пленки\nПереворачивающийся гос. номер\nАквапринт\nУправляемая электро тонировка Vario Plus\nШумоизоляция автомобиля\nУстановка парктроников\nУстановка ксенона\nУстановка аудио- видео- систем\nПередача данных с телефона на экран автомобиля\nПодключение навигатора к штатному монитору\nУстановка камер заднего и переднего вида\nАвтоматические доводчики дверей\nУкрепление стекол\nУстановка охранно-поисковых систем\nАнтигравийная пленка\nУстановка сигнализаций\nRaceChip\n89277031632",
+    "address": "Россия,Самара, Мирная улица, 162",
+    "lat": 53.238173,
+    "long": 50.245523,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.238173, "long": 50.245523 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 192515,
+    "name": "Бавария",
+    "description": "Техническое обслуживание \r\nРемонт двигателей и ходовой \r\nДиагностика\r\nСход развал 3D \r\nРемонт любой сложности",
+    "address": "Самара, ул.Неверова 1а, к.2",
+    "lat": 53.18138,
+    "long": 50.109967,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.18138, "long": 50.109967 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 36475,
+    "name": "Автоспецсервис",
+    "description": "Ремонт Автомобилей ВАЗ, ГАЗ, УАЗ. Все виды работ. При сервисе имеется Магазин с Авто-запчастями. В случаи отсутствии необходимых з/ч ,наш мастер найдет и доставит их по умеренным ценам, пока вы будете наслаждаться вкусными блюдами и напитками в кафе 7 небо.\nКузовной и малярный участки\nРемонт ходовой и развал-схождение\nАвтоэлектрика и диагностика\nРемонт двигателя\n6 подъемников для всех типов авто \nАвтомойка и Шиномонтаж\nтел.955-06-30,977-90-30 \nРаботаем без перерывов и выходных с 8:00-19:00.\nг. Самара ул. Управленческий тупик,2 Заводское шоссе, ост Госбанк\nЖдем вас\nВозможна служба эвакуатора.",
+    "address": "Самара, Управленческий тупик, 2",
+    "lat": 53.199622,
+    "long": 50.254865,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.199622, "long": 50.254865 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 55949,
+    "name": "Авто Мастер",
+    "description": "УНИВЕРСАЛЫ, КРОМЕ ЭЛЕКТРИКИ И ШИНОМОНТАЖА",
+    "address": "Самара, Заводское шоссе, 5к3",
+    "lat": 53.197243,
+    "long": 50.257919,
+    "rating": 10,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 10,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.197243, "long": 50.257919 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 22902,
+    "name": "Мост Люкс",
+    "description": "Автоцентр Мост Люкс предоставляет комплекс услуг по механическому и кузовному ремонту легковых автомобилей, а также ГАЗелей и коммерческого транспорта.  ( \n\nАвтоцентр оборудован новейшим оборудованием и высококвалифицированным персоналом. Выполняемые работы отвечают высокому качеству. На все виды услуг предоставляется гарантия.\n\nМост Люкс - место, где Вас удивит качественный и быстрый сервис, а также приятные цены. \n\nТакже у нас открыт собственный магазин автозапчастей.\n\nМы работаем ежедневно с 09:00 до 20:00, без выходных.\n\n Работаем уже более 7 лет \n Гарантия на все виды работ \n Автоцентр Мост Люкс, пр. Мальцева, 7 к.3 \n  \nБолее 10 000 самарцев и более 100 компаний уже доверили нам свои авто!",
+    "address": "Россия, Самара, проезд Мальцева, 7к3",
+    "lat": 53.189388,
+    "long": 50.247939,
+    "rating": 9.65,
+    "review_count": 17,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.65,
+      "avg_location_rate": 9.65,
+      "avg_qualification_rate": 9.65,
+      "avg_appearance_rate": 9.65,
+      "avg_repair_quality_rate": 9.65,
+      "avg_final_cost_rate": 9.65,
+      "favorite": "repair_quality_rate",
+      "review_count": 17
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.189388, "long": 50.247939 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 20:00",
+      "weekends_time": "09:00 - 20:00",
+      "holidays_time": "09:00 - 20:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 22793,
+    "name": "CarFix",
+    "description": "Только иномарки.   \nАвтосервис нового поколения в Самаре. В нашем автосервисе работает команда специалистов, которые хорошо знают свою работу и способны разобраться в самых сложных моментах, связанных с ремонтом автомобилей.\n\nНаш сервис располагает современным оборудованием для ремонта, диагностирования и технического обслуживания современных автомобилей зарубежного производства.\n\nУстановка камер, парктроников, фаркопов, чип-тюнинг, удаление катализаторов, установка сигнализаций, прошивка!\n\n\nг. Самара, ул. Пензенская 20 \nг. Самара, ул. Аминева 18А\nг. Самара, ул.Мичурина 98б/1",
+    "address": "ул. Аминева, 18а, Самара, Самарская обл., Россия, 443125",
+    "lat": 53.247945,
+    "long": 50.209426,
+    "rating": 9.65,
+    "review_count": 16,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.65,
+      "avg_location_rate": 9.63,
+      "avg_qualification_rate": 9.59,
+      "avg_appearance_rate": 9.44,
+      "avg_repair_quality_rate": 9.88,
+      "avg_final_cost_rate": 9.72,
+      "favorite": "appearance_rate",
+      "review_count": 16
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.247945, "long": 50.209426 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 19:00",
+      "weekends_time": "09:00 - 19:00",
+      "holidays_time": "09:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 119709,
+    "name": "InterAvto63",
+    "description": "(Автосервис Interavto-63 в Самаре.\nПроводим ремонт автомобилей любой степени сложности.\nУслуги автосервиса в Самаре: Жестянка любой сложности Покраска профессиональным оборудованием, полировка, подбор автоэмалей, ремонт двигателей, КПП и АКПП, шиномонтаж, аргонная сварка, ремонт и обслуживание автокондиционеров.\nА так же выкуп битых, сгоревших авто, АВТОРАЗБОР продажа автозапчастей новых и б/у. Установка, покраска приобретённых деталей в нашем автосервисе! Оптовая и розничная торговля автозапчастями на любые легковые автомобили импортного производства, снабжение СТО и автосервисов под ключ. ВЫКУП АВАРИЙНЫХ И СГОРЕВШИХ АВТО НЕ СТАРШЕ 2005 ГОДА ВЫПУСКА.\nВ наличии запчасти и агрегаты для автомобилей, BMW (БМВ), VW (Фольксваген), Audi (Ауди), Ford (Форд), Toyota (Тойота), Lexus (Лексус), Mazda (Мазда), Honda (Хонда), Nissan (Ниссан), Subaru (Субару), Suzuki (Сузуки), SsangYong (СангЙонг), Hyundai (Хёндай), Kia (Кия), GM (ДжиЭм), Renault (Рено), Peugeot (Пежо), Citroen (Ситроен).\nЗАПЧАСТИ ПО ЛУЧШИМ ЦЕНАМ В САМАРЕ. \nВ другие регионы РФ доставку автозапчастей производим транспортными компаниями\nДля постоянных клиентов действует система скидок.",
+    "address": "8-й Карьерный пер., 67, Самара, Самарская обл., Россия, 443070",
+    "lat": 53.18622,
+    "long": 50.183536,
+    "rating": 9.64,
+    "review_count": 11,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.64,
+      "avg_location_rate": 9.64,
+      "avg_qualification_rate": 9.64,
+      "avg_appearance_rate": 9.64,
+      "avg_repair_quality_rate": 9.64,
+      "avg_final_cost_rate": 9.64,
+      "favorite": "repair_quality_rate",
+      "review_count": 11
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.18622, "long": 50.183536 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "10:00 - 19:00",
+      "weekends_time": "10:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 10878,
+    "name": "Гранд-авто",
+    "description": "Автосервис и автозапчасти для иномарок в Самаре по низким ценам!",
+    "address": "Самара, улица Авроры, 114А, корпус 7",
+    "lat": 53.199152,
+    "long": 50.189863,
+    "rating": 9.61,
+    "review_count": 77,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.61,
+      "avg_location_rate": 9.61,
+      "avg_qualification_rate": 9.61,
+      "avg_appearance_rate": 9.61,
+      "avg_repair_quality_rate": 9.61,
+      "avg_final_cost_rate": 9.61,
+      "favorite": "repair_quality_rate",
+      "review_count": 77
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.199152, "long": 50.189863 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 813395,
+    "name": "/// WOOLF",
+    "description": "/// WOOLF Детейлинг студия. \nАдрес: г. Самара, ул. Владимирская, д. 51, здание WOOLF.\nwww.woolfpro.ru \nТелефоны: 89179657896, 89178188051\nУ нас в студии полный спектр детейлинг услуг по  уходу за автомобилем от качественной мойки, до полировки, химчистки, нанесения защитных покрытий, керамики, локального ремонта ЛКП, выпрямления вмятин без покраски и покраски дисков.",
+    "address": "ул. Владимирская, 51, Самара, Самарская обл., Россия, 443082",
+    "lat": 53.187402,
+    "long": 50.1453,
+    "rating": 9.6,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.6,
+      "avg_location_rate": 10,
+      "avg_qualification_rate": 10,
+      "avg_appearance_rate": 10,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 10,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.187402, "long": 50.1453 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "10:00 - 21:00",
+      "weekends_time": "10:00 - 21:00",
+      "holidays_time": "10:00 - 17:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 35564,
+    "name": "Drift Style",
+    "description": "Сервис временно не работает!!!!!!         Ремонт автомобилей - услуги автосервиса:\nРемонт и техническое обслуживание автомобилей отечественного производства и иномарок\nДиагностика и ремонт подвески\nРемонтируем ходовую часть автомобиля, ДВС, КПП\nРемонт и установка акустики .\nВозможность покупки автозапчастей.\nМы работаем по записи, в основном работа приходится вечером,в ночь все для вашего удобства! работаем круглосуточно! Предварительно звоните",
+    "address": "Россия,г.Самара, ул.Юзовская 3а",
+    "lat": 53.181931,
+    "long": 50.150032,
+    "rating": 9.54,
+    "review_count": 26,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.54,
+      "avg_location_rate": 9.54,
+      "avg_qualification_rate": 9.54,
+      "avg_appearance_rate": 9.54,
+      "avg_repair_quality_rate": 9.54,
+      "avg_final_cost_rate": 9.54,
+      "favorite": "repair_quality_rate",
+      "review_count": 26
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.181931, "long": 50.150032 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 89991,
+    "name": "VAG Place",
+    "description": "Автосервис по ремонту иномарок. VAG группа и не только. Клубный сервис Mitsubishi. Ремонт ходовой, двигателей, кпп, компьютерная диагностика, тюнинг\r\nНа все работы предоставляем гарантию.\r\nПостоянным клиентам гибкая система скидок и бонусов.",
+    "address": "ул. Солнечная, 24, Самара, Самарская обл., Россия, 443124",
+    "lat": 53.246283,
+    "long": 50.19219,
+    "rating": 9.49,
+    "review_count": 15,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.49,
+      "avg_location_rate": 9.47,
+      "avg_qualification_rate": 9.33,
+      "avg_appearance_rate": 9.47,
+      "avg_repair_quality_rate": 9.33,
+      "avg_final_cost_rate": 9.87,
+      "favorite": "repair_quality_rate",
+      "review_count": 15
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.246283, "long": 50.19219 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 39041,
+    "name": "Restovrator club",
+    "description": "Доброго времени суток!!! Мы предоставляем спектр услуг любой сложности:\n-кузовной ремонт\n-покраска\n-полировка\n-механические работы\n-слесарные работы\n-диагностика и электрика\nТак же мы делаем скидку 15% подписчикам нашей группы https://vk.com/kuzovnoyremontsamara от общей суммы ремонта!!!\nRestovrator club готов помочь в любой ситуации.",
+    "address": "Россия, Самара, улица Промышленности, 194",
+    "lat": 53.188508,
+    "long": 50.207245,
+    "rating": 9.47,
+    "review_count": 38,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.47,
+      "avg_location_rate": 9.47,
+      "avg_qualification_rate": 9.47,
+      "avg_appearance_rate": 9.47,
+      "avg_repair_quality_rate": 9.47,
+      "avg_final_cost_rate": 9.47,
+      "favorite": "repair_quality_rate",
+      "review_count": 38
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.188508, "long": 50.207245 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 887394,
+    "name": "SIN",
+    "description": "Шиномонтаж, замена масла ,перерисовка сайлентблоков, электрика, замена колодок, ремонт ходовой.",
+    "address": "Кустанайская ул., 170, Самара, Самарская обл., Россия, 443050",
+    "lat": 53.260099,
+    "long": 50.325185,
+    "rating": 9.43,
+    "review_count": 42,
+    "service_classification": { "stars": 1, "description": "Гараж" },
+    "service_rating": {
+      "rating": 9.43,
+      "avg_location_rate": 8.86,
+      "avg_qualification_rate": 9.75,
+      "avg_appearance_rate": 9,
+      "avg_repair_quality_rate": 9.75,
+      "avg_final_cost_rate": 9.8,
+      "favorite": "location_rate",
+      "review_count": 42
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.260099, "long": 50.325185 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 18:00",
+      "weekends_time": "09:00 - 18:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 33717,
+    "name": "Механик Центр",
+    "description": "Техническое обслуживание,и ремонт автомобиля: ремонт ходовой,ремонт двигателя,ремонт трансмиссии,ремонт рулевого управления,регулировка развал-схождение по 3D технологии.Заказ и наличие запчастей.",
+    "address": "Самара, улица Потапова,83а",
+    "lat": 53.222503,
+    "long": 50.188489,
+    "rating": 9.42,
+    "review_count": 442,
+    "service_classification": {
+      "stars": 3,
+      "description": "Универсальный автосервис"
+    },
+    "service_rating": {
+      "rating": 9.42,
+      "avg_location_rate": 9.55,
+      "avg_qualification_rate": 9.46,
+      "avg_appearance_rate": 9.31,
+      "avg_repair_quality_rate": 9.46,
+      "avg_final_cost_rate": 9.33,
+      "favorite": "appearance_rate",
+      "review_count": 442
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.222503, "long": 50.188489 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 99974,
+    "name": "КуВАлДа-Моторс",
+    "description": "Здравствуйте, дорогие друзья!\nНаш автосервис предлагает широкий спектр услуг по комплексному ремонту вашего автомобиля.\nМы беремся за любые сложные задачи по тюнингу, нестандартному ремонту и различным доработкам. Наши механики дадут грамотную консультацию и ответят на все ваши вопросы. \nМы поможем вам с подбором запчастей и тюнинга на любой автомобиль. \n\nНаши задачи наладить дружественный контакт с клиентом и вести его автомобиль в течении всего срока владения.\nРежим работы: \nБудни: с 10-00 до 20-00\nВыходные: с 10-00 до 17-00 (желательна предварительная запись)\n(у нас не нормированный рабочий день, если вам нужно починить автомобиль срочно мы сделаем это ночью)\nЗапись по телефону: 989-22-70",
+    "address": "Самара, ул Клиническая,д 200 А",
+    "lat": 53.181083,
+    "long": 50.165833,
+    "rating": 9.37,
+    "review_count": 19,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.37,
+      "avg_location_rate": 9.37,
+      "avg_qualification_rate": 9.37,
+      "avg_appearance_rate": 9.37,
+      "avg_repair_quality_rate": 9.37,
+      "avg_final_cost_rate": 9.37,
+      "favorite": "repair_quality_rate",
+      "review_count": 19
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.181083, "long": 50.165833 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 901335,
+    "name": "Кросс-сервис",
+    "description": "Техцентр \"КРОСС-СЕРВИС\" оказывает широкий спектр услуг в области компьютерной диагностики, обслуживания и ремонта отечественных и зарубежных легковых авто, а также микроавтобусов, пикапов, газелей и не только. Здесь работают квалифицированные механики с многолетним опытом, которые способны быстро выявить точную причину поломки и столь же оперативно устранить ее. Специалисты заменят масло и другие жидкости, отрегулируют фары, починят двигатель, коробку переключения передач, выхлопную и тормозную системы, ходовую часть, подвеску, ГУР, электрику, установят дополнительное оборудование, парктроники, камеры заднего вида. Эксперты используют передовое оборудование, запчасти и расходные материалы от проверенных поставщиков, что позволяет давать гарантию качества на все манипуляции. Двери СТО открыты ежедневно, на все вопросы ответят по телефон и в сообщениях.",
+    "address": "ул. Антонова-Овсеенко, 44, Самара, Самарская обл., Россия, 443090",
+    "lat": 53.212949,
+    "long": 50.214715,
+    "rating": 9.34,
+    "review_count": 20,
+    "service_classification": {
+      "stars": 2,
+      "description": "Гаражный сервис"
+    },
+    "service_rating": {
+      "rating": 9.34,
+      "avg_location_rate": 9.05,
+      "avg_qualification_rate": 9.25,
+      "avg_appearance_rate": 9.4,
+      "avg_repair_quality_rate": 9.5,
+      "avg_final_cost_rate": 9.5,
+      "favorite": "location_rate",
+      "review_count": 20
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.212949, "long": 50.214715 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "00:00 - 23:59",
+      "weekends_time": "00:00 - 23:59",
+      "holidays_time": "00:00 - 23:59"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 195784,
+    "name": "Мастер М",
+    "description": "Профессиональный ремонт и диагностика автомобилей массой до 4,5 тонн.\nДиагностика и ремонт электрооборудования автомобиля.\nПерепрошивка ЭБУ.\nРемонт двигателя, КПП, РКПП (раздатки), мостов, реек рулевых.\nРемонт кузова автомобиля, полировка.\nРемонт ходовой.\nСхождение-развал 3D.\nМойка и химчистка автомобилей.\nПолировка фар.\nШиномонтаж.\nЗапчасти в наличии и на заказ.",
+    "address": "Самара, Россия, Олимпийская улица, 1",
+    "lat": 53.228137,
+    "long": 50.282551,
+    "rating": 9.33,
+    "review_count": 6,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.33,
+      "avg_location_rate": 9.33,
+      "avg_qualification_rate": 9.33,
+      "avg_appearance_rate": 9.33,
+      "avg_repair_quality_rate": 9.33,
+      "avg_final_cost_rate": 9.33,
+      "favorite": "repair_quality_rate",
+      "review_count": 6
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.228137, "long": 50.282551 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 192762,
+    "name": "Avtoklinik63",
+    "description": "Ремонт, уход и обслуживание легковых автомобилей любых марок",
+    "address": "Самара, Клиническая улица, 212Г",
+    "lat": 53.185487,
+    "long": 50.16127,
+    "rating": 9.33,
+    "review_count": 6,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.33,
+      "avg_location_rate": 9.33,
+      "avg_qualification_rate": 9.33,
+      "avg_appearance_rate": 9.33,
+      "avg_repair_quality_rate": 9.33,
+      "avg_final_cost_rate": 9.33,
+      "favorite": "repair_quality_rate",
+      "review_count": 6
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.185487, "long": 50.16127 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 24820,
+    "name": "AvtoLab63",
+    "description": "Услуги\r\nКорректировка пробега, ремонт приборных панелей\r\nКомпьютерная диагностика систем автомобиля\r\nРемонт автоэлектрики и электрооборудования\r\nЗащита от угона, сигнализации, иммобилайзеры\r\nЧип-тюнинг, увеличение мощности двигателя\r\nАвтозвук, акустические полки, сабвуферы\r\nСистемы мониторинга, GPS, Глонасс\r\nПарктроники, камеры заднего вида\r\nКсенон, ДХО, ПТФ, регулировка фар\r\nИзготовление автоключей с чипом\r\nРемонт блоков SRS, Airbag",
+    "address": "Самара, Ново-Вокзальная улица, 59Б",
+    "lat": 53.227808,
+    "long": 50.231698,
+    "rating": 9.33,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.33,
+      "avg_location_rate": 9.33,
+      "avg_qualification_rate": 9.33,
+      "avg_appearance_rate": 9.33,
+      "avg_repair_quality_rate": 9.33,
+      "avg_final_cost_rate": 9.33,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.227808, "long": 50.231698 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 42309,
+    "name": "Universal Автоклуб",
+    "description": "Тех помощь на дороге (доставка топлива на место,шиномонтаж,эвакуация)  /слесар 89879131990 Семен / 89270087799 Павел  КУЗОВНОЙ РЕМОНТ Автосервис Universal автоклуб предлагает вам :\n- ремонт и диагностика отечественных и иномарок\n-компьютерная диагностика вашего автомобиля\n-подбор оригинальный и аналоговый запчастей\n-доработка двигателей и подвески\n-шиномонтаж\n-квалифицированных специалистов\n-гарантия на предоставленные услуги\n-эвакуатор 89270037799\nПРИ ПОВТОРНОМ ОБРАЩЕНИИ СКИДКА 10% \n89270176522",
+    "address": "Самара, Пятигорская улица, 13",
+    "lat": 53.185562,
+    "long": 50.138578,
+    "rating": 9.25,
+    "review_count": 8,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.25,
+      "avg_location_rate": 9.25,
+      "avg_qualification_rate": 9.25,
+      "avg_appearance_rate": 9.25,
+      "avg_repair_quality_rate": 9.25,
+      "avg_final_cost_rate": 9.25,
+      "favorite": "repair_quality_rate",
+      "review_count": 8
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.185562, "long": 50.138578 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 29331,
+    "name": "Азбука Авто",
+    "description": "Автосервис Азбука Авто зарекомендовал себя как надежный автосервис по ремонту и обслуживанию иномарок и ВАЗ. Работаем с 2010 года.АВТОСЕРВИС\r\n5 причин обратиться к нам:\r\nЕсли вам нужен надежный автотехсервис для ремонта иномарок, то мы рады предложить свои услуги,\r\nДоступные и фиксированные цены на стандартные операции помогут заранее рассчитать стоимость ремонта,\r\nМы проводим диагностику, выявляем неисправности и самостоятельно привозим запчасти, вам не нужно отдельно искать магазин автозапчастей,\r\nАккуратная работа, ответственное отношение и профессионализм наших мастеров это залог исправности вашего автомобиля и уверенность на дороге,\r\nГибкая система скидок позволит вам отремонтировать авто выгодно.\r\nСкидки на сервисные работы в определенные дни",
+    "address": "Россия, Самара, Структурная улица, 82А",
+    "lat": 53.179578,
+    "long": 50.166794,
+    "rating": 9.22,
+    "review_count": 46,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.22,
+      "avg_location_rate": 9.43,
+      "avg_qualification_rate": 9.22,
+      "avg_appearance_rate": 9.26,
+      "avg_repair_quality_rate": 9.09,
+      "avg_final_cost_rate": 9.09,
+      "favorite": "repair_quality_rate",
+      "review_count": 46
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.179578, "long": 50.166794 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 35278,
+    "name": "Сервисный центр ИНРОСАВТО - официальный дилер Mitsubishi Fuso",
+    "description": "Тел. сервиса78469317311, 8469317310\nАвтоцентр ИНРОСАВТО начал свою деятельность в Самаре с середины 2006 года. Основательный подход и знание своего дела позволило нашей команде достаточно быстро заявить о себе не только в масштабах района, но и всего города Самары. Прежде всего, это качественный, быстрый и правильный ремонт автомобилей по самым разумным ценам.\nООО ИНРОСАВТО предлагает полноценный автосервис. В нашем арсенале не только полный комплекс новейшего оборудования, но и квалифицированные специалисты, регулярно повышающие свой профессиональный уровень на специализированных образовательных мероприятиях.\nСотрудники Автоцентра ИНРОСАВТО выполняют все работы по техническому обслуживанию и ремонту автомобилей, в соответствии с установленными нормами. Мы предоставляем вам первоклассный сервис и гарантируем качественную работу, а внимание к деталям,  надежное соблюдение всех обещаний и договоренностей является ключевым условием получения положительной репутации для автоцентра ИНРОСАВТО.\nОбслуживание и ремонт легковых автомобилей иностранного и отечественного производителя, а также коммерческого-грузового транспорта марок Fiat Ducato, Peugeot Boxer, Isuzu NQR, Hyundai HD, Peugeot, Kia, Volkswagen, Hyundai, Mercedes, Ford, Citroen, Renault   основная специфика компании Инросавто. Мы являемся профессионалами высокого класса и имеем колоссальный практический опыт. Инросавто - сертифицированная сервисная станция, также осуществляющая техническое обслуживание и гарантийный ремонт коммерческих автомобилей Mitsubishi FUSO.",
+    "address": "Самара, Физкультурная улица, 147В",
+    "lat": 53.22301,
+    "long": 50.277386,
+    "rating": 9.18,
+    "review_count": 44,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.18,
+      "avg_location_rate": 9.18,
+      "avg_qualification_rate": 9.18,
+      "avg_appearance_rate": 9.18,
+      "avg_repair_quality_rate": 9.18,
+      "avg_final_cost_rate": 9.18,
+      "favorite": "repair_quality_rate",
+      "review_count": 44
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.22301, "long": 50.277386 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 723667,
+    "name": "АвтоСпецСервис",
+    "description": "Мы ремонтируем автомобили более 18 лет. (Евгений)\nРаботаем в присутствии клиента.\nНе кидаем с гарантиями.\nРемонт ВАЗ, ГАЗ, УАЗ и Иномарок. Мойка и шиномонтаж.",
+    "address": "Управленческий туп., 2, Самара, Самарская обл., Россия, 443022",
+    "lat": 53.200153,
+    "long": 50.254887,
+    "rating": 9.13,
+    "review_count": 12,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9.13,
+      "avg_location_rate": 8.83,
+      "avg_qualification_rate": 9.67,
+      "avg_appearance_rate": 8.67,
+      "avg_repair_quality_rate": 9.17,
+      "avg_final_cost_rate": 9.33,
+      "favorite": "appearance_rate",
+      "review_count": 12
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.200153, "long": 50.254887 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "08:00 - 19:00",
+      "weekends_time": "08:00 - 19:00",
+      "holidays_time": "08:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 705543,
+    "name": "Макс-Авто",
+    "description": "Автосервис мультибренд: Диагностика ДВС и ходовой, шиномонтаж,  автоэлектрика, ТО. Ремонт ДВС,  Акпп,  мкпп,  CVT.   Ремонт тормозной системы.  Ремонт ходовой.  Автоэлектрик. Сход-Развал 3D.",
+    "address": "ул. Алма-Атинская, 60а, Самара, Самарская обл., Россия, 443106",
+    "lat": 53.25734,
+    "long": 50.265721,
+    "rating": 9.07,
+    "review_count": 31,
+    "service_classification": {
+      "stars": 2,
+      "description": "Гаражный сервис"
+    },
+    "service_rating": {
+      "rating": 9.07,
+      "avg_location_rate": 8.95,
+      "avg_qualification_rate": 9.08,
+      "avg_appearance_rate": 8.76,
+      "avg_repair_quality_rate": 9.15,
+      "avg_final_cost_rate": 9.4,
+      "favorite": "appearance_rate",
+      "review_count": 31
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.25734, "long": 50.265721 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 19:00",
+      "weekends_time": "09:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 20475,
+    "name": "Автоокей Тухачевского",
+    "description": "общая - 300 кв.м, развал, схождение, кузовной и покраску нет",
+    "address": "Самара, улица Тухачевского, 183",
+    "lat": 53.195349,
+    "long": 50.15349,
+    "rating": 9,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9,
+      "avg_location_rate": 9,
+      "avg_qualification_rate": 9,
+      "avg_appearance_rate": 9,
+      "avg_repair_quality_rate": 9,
+      "avg_final_cost_rate": 9,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.195349, "long": 50.15349 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 36213,
+    "name": "Бобёр моторс",
+    "description": "Кузовной ремонт, механический участок.",
+    "address": "Самара, проспект Кирова, 73В/Льговский переулок",
+    "lat": 53.203128,
+    "long": 50.283863,
+    "rating": 9,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9,
+      "avg_location_rate": 9,
+      "avg_qualification_rate": 9,
+      "avg_appearance_rate": 9,
+      "avg_repair_quality_rate": 9,
+      "avg_final_cost_rate": 9,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.203128, "long": 50.283863 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 206056,
+    "name": "Кузов",
+    "description": "Кузовной ремонт любой сложности,механический ремонт,замена стёкл,ремонт пластика,сварочные работы,полировка кузова,мелкий ремонт авто: устранение царапин, сколов, вмятин;восстановление лакокрасочного покрытия.Автозапчасти новые и с разбора (б.у). Плановое Т.О, восстановление ГОС номеров,диагностика ходовой,замена свечей зажигания,\nзамена масла двигателя,замена трансмисионных жидкостей,замена ремня ГРМ,замена цепи ГРМ,замена сцепления,ремонт глушителя,удаление катализатора отработанных газов,сварочные работы.ремонт передней подвески,замена амортизаторов,замена тормозных колодок,проверка и замена тормозной жидкости,замена сайлентблоков,замена рычагов подвески,замена шаровых опор,замена пружин,замена рулевых тяг.",
+    "address": "Самара, Россия, Революционная улица, 72",
+    "lat": 53.205754,
+    "long": 50.178374,
+    "rating": 9,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9,
+      "avg_location_rate": 9,
+      "avg_qualification_rate": 9,
+      "avg_appearance_rate": 9,
+      "avg_repair_quality_rate": 9,
+      "avg_final_cost_rate": 9,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.205754, "long": 50.178374 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 33335,
+    "name": "Технический центр",
+    "description": "",
+    "address": "Самара, Управленческий тупик, 7/3",
+    "lat": 53.201413,
+    "long": 50.258081,
+    "rating": 9,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 9,
+      "avg_location_rate": 9,
+      "avg_qualification_rate": 9,
+      "avg_appearance_rate": 9,
+      "avg_repair_quality_rate": 9,
+      "avg_final_cost_rate": 9,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.201413, "long": 50.258081 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 8046,
+    "name": "БАРСauto",
+    "description": "Виды услуг:\r\nВсе виды механического ремонта;\r\nЗамена узлов агрегата;\r\nКап.ремонт двигателя\r\nзапчасти в наличии и на заказ.",
+    "address": "проспект Карла Маркса, 412А, Самара, Россия, 443091",
+    "lat": 53.242522,
+    "long": 50.242648,
+    "rating": 8.96,
+    "review_count": 193,
+    "service_classification": {
+      "stars": null,
+      "description": "Неизвестный статус"
+    },
+    "service_rating": {
+      "rating": 8.96,
+      "avg_location_rate": 8.86,
+      "avg_qualification_rate": 9.06,
+      "avg_appearance_rate": 8.68,
+      "avg_repair_quality_rate": 9.07,
+      "avg_final_cost_rate": 9.13,
+      "favorite": "appearance_rate",
+      "review_count": 193
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.242522, "long": 50.242648 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 20:00",
+      "weekends_time": "09:00 - 20:00",
+      "holidays_time": "09:00 - 21:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 22920,
+    "name": "АльянсПлюс",
+    "description": "УНИВЕРСАЛЫ    89023757171 Марат",
+    "address": "Самара, Черемшанская улица, 126",
+    "lat": 53.232605,
+    "long": 50.240052,
+    "rating": 8.73,
+    "review_count": 11,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8.73,
+      "avg_location_rate": 8.73,
+      "avg_qualification_rate": 8.73,
+      "avg_appearance_rate": 8.73,
+      "avg_repair_quality_rate": 8.73,
+      "avg_final_cost_rate": 8.73,
+      "favorite": "repair_quality_rate",
+      "review_count": 11
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.232605, "long": 50.240052 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 181045,
+    "name": "Автофокус",
+    "description": "Автосервис Автофокус предлагает услуги по ремонту и техническому обслуживанию легковых машин. Квалифицированные работники автосервиса помогут быстро и своевременно выявить и устранить причину неисправности.\n\nБыстро и точно выполнят ремонт МКПП, ремонт АКПП, ремонт двигателя, ремонт дизельных двигателей, диагностику двигателя, замену масла и других расходников, ремонт топливной системы, ремонт выхлопной системы , ремонт ходовой части автомобиля, ремонт электрооборудования, заправку кондиционера.\n\nСервис обслуживает любые марки авто.\n\nСервис находится возле пересечения ул.Авроры и ул.Антонова-Овсеенко. Для вас сервис работает с ежедневно: 09:00 - 19:00.\n\nВид работ:\nЗамена масла, замена фильтров, заправка кондиционера, ремонт АКПП, ремонт МКПП, ремонт выхлопной системы, ремонт двигателя, ремонт дизельных двигателей, ремонт подвески, диагностика двигателя, ремонт электрооборудования, ремонт рулевых реек, ремонт головки блока цилиндров, замена сцепления",
+    "address": "Самара, улица Авроры, 150Д",
+    "lat": 53.210754,
+    "long": 50.185713,
+    "rating": 8.67,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8.67,
+      "avg_location_rate": 8.67,
+      "avg_qualification_rate": 8.67,
+      "avg_appearance_rate": 8.67,
+      "avg_repair_quality_rate": 8.67,
+      "avg_final_cost_rate": 8.67,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.210754, "long": 50.185713 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 3172,
+    "name": "Вираж",
+    "description": "С расценками можно ознакомиться на нашем сайте http://xn----7sbbgabsmoc4dzafgej.xn--p1ai/\nИли автосервис-вираж.рф\n\nВсе виды работ по техническому обслуживанию а/м отечественного и импортного производства\nУслуги:\n- Ремонт ходовой части\n  Замена и ремонт всех узлов и агрегатов передней, задней подвески и колес.\n- Обслуживание двигателя\nДиагностика, ремонт и капитальный ремонт двигателя.\n- Установка дополнительного оборудования.\nВ  т.ч. установка сигнализации на а/м сертифицированным специалистом, что позволяет сохранить заводскую гарантию.\n- Прохождение регулярного технического обслуживания",
+    "address": "Самара, Алма-Атинская улица, 139",
+    "lat": 53.262639,
+    "long": 50.262537,
+    "rating": 8.67,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8.67,
+      "avg_location_rate": 8.67,
+      "avg_qualification_rate": 8.67,
+      "avg_appearance_rate": 8.67,
+      "avg_repair_quality_rate": 8.67,
+      "avg_final_cost_rate": 8.67,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.262639, "long": 50.262537 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 86892,
+    "name": "Автосервис Рысь (Тюнинг & Автосервис)",
+    "description": "Антон    Автосервис Рысь Тюнинг & Автосервис в Самаре, по адресу Аминева 18а тел 8 917-168-28-28\nЖдём клиентов на качественное обслуживание автомобилей.\nМы решаем проблемы разного рода:\n- Чип-тюнинг\n- Техническое обслуживание \n- Слесарный ремонт\n- Диагностика любых систем автомобиля\n- Отключение ЭКО норм вашего автомобиля\n- Тюнинг выхлопной системы\nи многое другое",
+    "address": "Россия, Самара, улица Аминева, 18А",
+    "lat": 53.247317,
+    "long": 50.209177,
+    "rating": 8.6,
+    "review_count": 6,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8.6,
+      "avg_location_rate": 8.67,
+      "avg_qualification_rate": 8.67,
+      "avg_appearance_rate": 8.67,
+      "avg_repair_quality_rate": 8.67,
+      "avg_final_cost_rate": 8.33,
+      "favorite": "final_cost_rate",
+      "review_count": 6
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.247317, "long": 50.209177 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 28826,
+    "name": "АВТОФОКУС",
+    "description": "Специализированный автосервис по ремонту автомобилей Ford и других иностранных марок\nПрофессиональный ремонт дизельных и бензиновых двигателей, автоматических трансмиссий\nЗаписаться на прием:\n+7 846 249 19 19\nE-mail: shumicarmail.ru \n\n\nПочему приезжают к нам:\n- более трех лет на рынке услуг\n- квалифицированный персонал\n- лояльные цены\n- гарантии на услуги\n- сертификаты международного уровня\n- оригинальные запчасти в наличии и под заказ\n- качество и оперативность\n- возможность безналичного расчета\n- ремонт в присутствии клиента\n- наличие комфортной клиентской зоны \n- Wi-Fi и горячий кофе/чай",
+    "address": "Самара, улица Авроры, 150Д",
+    "lat": 53.210754,
+    "long": 50.185713,
+    "rating": 8.4,
+    "review_count": 10,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8.4,
+      "avg_location_rate": 8.4,
+      "avg_qualification_rate": 8.4,
+      "avg_appearance_rate": 8.4,
+      "avg_repair_quality_rate": 8.4,
+      "avg_final_cost_rate": 8.4,
+      "favorite": "repair_quality_rate",
+      "review_count": 10
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.210754, "long": 50.185713 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 35233,
+    "name": "РЕФРЭШ, детейлинг-центр",
+    "description": "Удаление любых сколов и царапин даже до металла вандальных, со ржавчиной, обширных притертостей. Предлагаем уникальные запатентованные способы сверхлокального ремонта, выбор способа зависит от желания автовладельца и вида повреждения.\nМы знаем о царапинах и об их удалении все.  Все виды кузовного ремонта.\n Все виды полировки.\n Нанесение защитных покрытий керамика, стекло, бронепленка, воск и т. д. на кузов и стеклянные детали.\n Ремонт бамперов любой сложности.\n Мойка, премиум-мойка, очистка глиной, удаление битума и пятен ЛКП различного происхождения, уход за хромированными частями кузова. Предпродажная подготовка.\n Экспертиза при покупке авто с пробегом.\n Все виды детейлинговых услуг.",
+    "address": "Самара, проспект Масленникова, 4/1",
+    "lat": 53.214949,
+    "long": 50.153365,
+    "rating": 8,
+    "review_count": 4,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 4
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.214949, "long": 50.153365 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "08:00 - 18:00",
+      "weekends_time": "08:00 - 18:00",
+      "holidays_time": "10:00 - 15:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 45527,
+    "name": "OilKoil",
+    "description": "Автосервис расположен по адресу г. Самара, Ново-Садовая 194а к1\n\nВыполняем все работы по ремонту автомобилей: \n-ремонт ходовой, \n-техническое обслуживание, \n-АКПП, \n-капитальный ремонт ДВС, \n-рулевых реек.\n\nВыполняем кузовной ремонт: \n-покраска\n-рихтовка\n-полировка кузова.\n\nРаботаем по наличному и безналичному расчету.\nПриглашаем организации к сотрудничеству.",
+    "address": "Самара, ул. Ново-Садовая 156а",
+    "lat": 53.225075,
+    "long": 50.166893,
+    "rating": 8,
+    "review_count": 3,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 3
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.225075, "long": 50.166893 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 27547,
+    "name": "Export Glass",
+    "description": "Сервисный центр Export Glass предлагает отличный сервис по подбору, продаже и установке стекол на автомобили иностранного, а также отечественного производства в городе Самара.\n\nИспорченное лобовое стекло становится очень опасным при езде в темное время суток, в этот момент из-за присутствующего на стекле повреждения не удается рассмотреть детали и правильно оценить обстановку, когда это необходимо. Стекло, имеющее трещину, при сильном воздействие на него может разбиться, а это происходит обычно в самых неподходящих случаях. Поэтому своевременная установка стекла с большой долей вероятности поможет сохранить жизни как пассажирам, так и самому водителю.\n\nКак происходит замена автостекла\n\nСовременные автостекла устанавливаются по совершенно другой технологии нежели раньше. Самостоятельно следовать правилам этой процедуры практически невозможно. Поэтому необходима обращаться за помощью к профессионалам. \n\nСтекло Вы уже купили, что дальше На первом этапе демонтируется старое автостекло, а старый клей, который остается в небольшом количестве на кузове, обрабатывается обезжиривающим составом. Далее наносится праймер, а потом клей-герметик, с его помощью достигается надежное сцепление и высокая герметичность.",
+    "address": "Самара, Алма-Атинская улица, 174А",
+    "lat": 53.259768,
+    "long": 50.263004,
+    "rating": 8,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.259768, "long": 50.263004 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 23361,
+    "name": "Автокузница",
+    "description": "Андрей    мультибренд",
+    "address": "Самара, Олимпийская улица, 57А",
+    "lat": 53.238318,
+    "long": 50.289136,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.238318, "long": 50.289136 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 24825,
+    "name": "Центральная ремонтная мастерская",
+    "description": "УНИВЕРСАЛЫ\n\nРемонт двигателя\nРемонт АКПП, роботов, МКПП\nРемонт рулевых реек\nРемонт мостов и редукторов\nРемонт ходовой\nКузовной ремонт любой сложности\nЭлектрика\nСварка\nШиномонтаж",
+    "address": "Самара, Алма-Атинская улица, 46",
+    "lat": 53.266759,
+    "long": 50.260605,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.266759, "long": 50.260605 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 19344,
+    "name": "ОлимпАвто",
+    "description": "Весь спектр услуг по\r\nремонту автомобилей",
+    "address": "Самара, Олимпийская улица, 57Б,к1",
+    "lat": 53.239488,
+    "long": 50.289163,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.239488, "long": 50.289163 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 29106,
+    "name": "Кит Авто, ООО",
+    "description": "Мастер кузовного Виталий-79370641170,  мастер слесарного  Павел 79370641171\n\nАвтосервис КиТ Авто это современное предприятие полного цикла, оснащенное самым передовым оборудованием для удовлетворения всех потребностей автовладельца. Слесарный и кузовной авторемонт, установка дополнительного оборудования - наши специалисты способны решить любую вашу проблему и воплотить любую вашу фантазию. Мы работаем с 2004 года и за это время приобрели хорошую репутацию у наших клиентов. Посетив наш техцентр вы останетесь довольны качеством обслуживания. Мы применяем только новейшии технологии, позволяющие быстро и качественно обслужить Ваш автомобиль. Вы останетесь довольны нашей работой Для крупных клиентов существует возможность обслуживания на договорной основе с получением скидок. По вопросам заключения договоров, а также за различного рода консультациями вы можете обратиться по телефонам в любой наш автосервис. Лучшие автосервисы Самары объединены в нашу сеть. \n\nКиТ авто заключает договора с организациями и страховыми на ремонт автомобилей любой сложности.\nНа данный момент мы работаем со многими страховыми, подробности по телефону 273-98-98.\nТакже работаем по безналичному расчету.",
+    "address": "Самара, Партизанская улица, 17А",
+    "lat": 53.19201,
+    "long": 50.166579,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.19201, "long": 50.166579 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 704516,
+    "name": "Покраска авто",
+    "description": "Наш автосервис выполнит все  работы по ремонту вашего авто: слесарные работы, шиномонтаж, кузовной ремонт + покраска мотоциклов, катеров и т.д.  (Дмитрий).",
+    "address": "Магистральная улица, 78, Самара, Россия, 443044",
+    "lat": 53.246633,
+    "long": 50.308027,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 7.5,
+      "avg_qualification_rate": 7.5,
+      "avg_appearance_rate": 7.5,
+      "avg_repair_quality_rate": 10,
+      "avg_final_cost_rate": 7.5,
+      "favorite": "location_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.246633, "long": 50.308027 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 19:00",
+      "weekends_time": "09:00 - 19:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 30570,
+    "name": "AF-Motors Мультибрендовый Автосервис",
+    "description": "AF Автосервис — мультибрендовая\nспециализированная станция техническо-\nго обслуживания и ремонта современных\nавтомобилей, а также техники для актив-\nного отдыха: катеров, снегоходов, квадро-\nциклов, мототехники.\nБолее 20 лет мы успешно работаем на рынке Самары и городов Поволжья.\nЗаключаем договора на обслуживание и ремонт с юридическими лицами.\nАF Автосервис является официальным дилером компании Теплостар и проводит Установку и ремонт предпусковых жидкостных подогревателей Бинар и автономных воздушных отопителей Планар,а также официальным дилером компании VB-Airsuspension по ремонту и установке пневмоподвески.                                                                                                                                        Мы предоставляем гарантию на свою работу.\nВыездная приёмка\nНаша сервисная служба может забрать\nавтомобиль клиента в любом месте го-\nрода и области. На выезде производится\nпервичная диагностика повреждений.\nДля транспортировки неисправного\nавтомобиля в AF Автосервис имеется\nэвакуатор.\nПодменный автомобиль\nЕсть возможность аренды автомобиля на время\nремонта автотранспорта. \nУНИВЕРСАЛЬНЫЙ СПЕКТР УСЛУГ :\nобслуживание\nремонт\nпокраска\nдиагностика\nремонт двигателя\nремонт АКПП/МКПП\nремонт кузова\nремонт ходовой\nремонт рулевой\nремонт электрики\nремонт форсунок\nремонт редуктора\nзап. части в наличии\nи на заказ\nпокраска и подбор\nавтоэмалей\nкомпьюторная\nдиагностика\nшиномонтаж,\nразвал-схождение\nремонт салона\nи пластика\nхимчистка\nполировка\nРемонт гидроциклов\nРемонт мотоциклов\nРемонт квадроциклов\nРемонт снегоходов\n\nВыездная приёмка\nПодменный автомобиль\nУстановка и ремонт пневмоподвески \nУстановка предпусковых жидкостных обогревателей Бинар \nУстановка Автономных воздушных отопителей Планар",
+    "address": "Самара, Алма-Атинская улица, 29Б",
+    "lat": 53.241045,
+    "long": 50.275275,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.241045, "long": 50.275275 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 3243,
+    "name": "Shell Service",
+    "description": "Шелл сервис работает на Самарском рынке автосервисных услуг с 2002 г. За этот период накоплен огромный опыт по предоставлению услуг в сфере обслуживания автомобилей. Не смотря на то что Шелл-Сервис является мультибрендовым автосервисом, мы имеем еще узкую специализацию по ремонту и обслуживанию автомобилей VAG группы Volkswagen, AUDI, Skoda, Porshe, Bentley.\r\n\r\nСвоим клиентам мы предлагаем диагностику на современном дилерском оборудовании, обслуживание и ремонт с применением как оригинальных запчастей и расходных материалов так и аналогов. На все виды работ и услуг предоставляется гарантия.\r\n\r\nМы имеем большой опыт по обслуживанию спец-транспорта всех типов.\r\n\r\nСтоимость нормо-часа 1000 руб.\r\n\r\nДля корпоративных клиентов стоимость услуг 800 руб/нормо-час, рассматриваем возможность отсрочки платежа до 30 дней.\r\n\r\nФорма оплаты любая.",
+    "address": "Самара, улица 22 Партсъезда, 201",
+    "lat": 53.233581,
+    "long": 50.1966,
+    "rating": 8,
+    "review_count": 1,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 8,
+      "avg_location_rate": 8,
+      "avg_qualification_rate": 8,
+      "avg_appearance_rate": 8,
+      "avg_repair_quality_rate": 8,
+      "avg_final_cost_rate": 8,
+      "favorite": "repair_quality_rate",
+      "review_count": 1
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.233581, "long": 50.1966 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 18313,
+    "name": "МАКСАВТО",
+    "description": "Алексей   Автосервис МАКСАВТО оказывает весь спектр услуг по комплексной диагностике и ремонту автомобилей легковых грузовых и автобусов, ремонт катеров, гидроциклов, квадроциклов и снегоходов. Благодаря современному оборудованию, которым оснащен наш сервис и многолетнему опыту мастеров, мы можем точно определить причину поломки и оперативно произвести необходимый работы по их устранению.\n\nОсновные преимущества нашего автосервиса:\n\n    Высокая квалификация и многолетний опыт работы наших специалистов;\n    Собственный магазин комплектующих и запчастей;\n    Скидка 5% на все виды работ при первом обращении в сервисный центр;\n    Бесплатная  диагностика для наших постоянных клиентов;\n    Дисконтная программа для постоянных клиентов, скидки выходного дня и акции;\n    Ремонт в нашем автосервисе с гарантией и точно в срок;\n    Обслуживание парков такси;\n    Обслуживание корпоративных клиентов на высочайшем профессиональном уровне;   )",
+    "address": "Извилистый переулок, 3в, Самара, Самарская обл., Россия, 443015",
+    "lat": 53.167305,
+    "long": 50.071485,
+    "rating": 7.75,
+    "review_count": 13,
+    "service_classification": {
+      "stars": 3,
+      "description": "Универсальный автосервис"
+    },
+    "service_rating": {
+      "rating": 7.75,
+      "avg_location_rate": 7.46,
+      "avg_qualification_rate": 8.12,
+      "avg_appearance_rate": 7.08,
+      "avg_repair_quality_rate": 7.62,
+      "avg_final_cost_rate": 8.46,
+      "favorite": "appearance_rate",
+      "review_count": 13
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.167305, "long": 50.071485 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 18:00",
+      "weekends_time": "09:00 - 18:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 20736,
+    "name": "Дубки, ООО",
+    "description": "78462004020 - кузовной цех\n\nАвтоцентр ДУБКИ - это качественный и доступный автосервис в Самаре. Мы используем в работе только современное оборудование и высококаественные материалы. Наши сотрудники обладают необходимыми навыками и большим опытом в ремонте автомобилей., УНИВЕРСАЛЫ",
+    "address": "Самара, Демократическая улица, 45Ак3",
+    "lat": 53.272004,
+    "long": 50.225769,
+    "rating": 4,
+    "review_count": 2,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 4,
+      "avg_location_rate": 4,
+      "avg_qualification_rate": 4,
+      "avg_appearance_rate": 4,
+      "avg_repair_quality_rate": 4,
+      "avg_final_cost_rate": 4,
+      "favorite": "repair_quality_rate",
+      "review_count": 2
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.272004, "long": 50.225769 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 3246,
+    "name": "Автохобби",
+    "description": "Автосервис выполняет все виды услуг по ремонту автомобилей LADA, Иномарки в послегарантийный период эксплуатации, а также продажу в розницу автомасел, автохимии, запасных частей: Амортизаторы, Двигатель, Подвеска, Рулевое управление, Система зажигания, Система охлаждения, Топливная система, Тормозная система, Трансмиссия, Фильтры, Ходовая часть, Электрооборудование, Аккумуляторы на легковой автотранспорт.\r\n\r\nТехническое обслуживание:\r\n-послегарантийное обслуживание;\r\n-ремонт узлов и агрегатов, в том числе ремонт КПП, заднего моста и полуосей и т.д;\r\n-замена масел и технических жидкостей;\r\n-компьютерная диагностика и ремонт электрооборудования и электронных систем автомобиля;\r\n-промывка и ремонт инжекторов;\r\n-диагностика и ремонт трансмиссии, ходовой, включая проверку и регулировку развала-схождения,контроль и регулировка углов установки колёс;\r\n-ремонт двигателей автомобилей LADA, в том числе капитальный ремонт;\r\nКузовной ремонт:\r\n-все виды кузовного ремонта любой сложности с применением современного оборудования;\r\n-антикоррозионная обработка автомобиля;\r\n-частичная, наружная и полная окраска кузова;\r\nШинный сервис:\r\n-монтажные работы, балансировка\r\nДополнительный сервис:\r\n-установка сигнализаций;\r\n-установка аудиосистем;",
+    "address": "Самара, Алма-Атинская улица, 3",
+    "lat": 53.239019,
+    "long": 50.285049,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.239019, "long": 50.285049 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 23370,
+    "name": "АВТОТЕХЦЕНТР, ООО",
+    "description": "УНИВЕРСАЛЫ",
+    "address": "Самара, Алма-Атинская улица, 37А",
+    "lat": 53.252953,
+    "long": 50.268609,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.252953, "long": 50.268609 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 22865,
+    "name": "Автосервис 911, Покрасочный бокс",
+    "description": "покраска, кузовной Николай  слесар/кузов Иван",
+    "address": "Самара, Заводское шоссе, 53А",
+    "lat": 53.211061,
+    "long": 50.288642,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.211061, "long": 50.288642 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 17856,
+    "name": "Спринт-сервис",
+    "description": "Александр   Компания Спринт-Сервис предлагает услуги ремонта автомобилей в Самаре по доступным ценам: мы выполняем ремонт бамперов, кузовной, покраску авто, стандартную или с использованием раптора, а также многое другое.",
+    "address": "Самара, ул. Юбилейная 1",
+    "lat": 53.217726,
+    "long": 50.275886,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.217726, "long": 50.275886 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 19860,
+    "name": "АДИОН, ООО",
+    "description": "250 кв.м, все авто, покраски и кузовного ремонта нет",
+    "address": "Самара, Московское шоссе, 262В",
+    "lat": 53.248977,
+    "long": 50.216732,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.248977, "long": 50.216732 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 33531,
+    "name": "Автоцентр Гараж",
+    "description": "УНИВЕРСАЛЫ",
+    "address": "Самара, Заводское шоссе, 10к1",
+    "lat": 53.197442,
+    "long": 50.251047,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.197442, "long": 50.251047 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 32702,
+    "name": "Davr Auto",
+    "description": "Автосервис Davr Auto проводит работы по подготовке внедорожников для активного отдыха, рыбалки, охоты, экспедиций, соревнований, используя марки только известных и проверенных производителей дополнительного оборудования и аксессуаров. Проводятся как штатные, так и нештатные установки любого навесного оборудования, а также изготовление по индивидуальным заказам клиента.",
+    "address": "Самара, проезд Мальцева, 24",
+    "lat": 53.193936,
+    "long": 50.245163,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.193936, "long": 50.245163 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 20483,
+    "name": "АВтоокей Кирова",
+    "description": "ТОЛЬКО МЕХАНИЧЕСКИЕ, ОСТАЛЬНЫЕ НА ДРУГИХ ПЛОЩАДКАХ",
+    "address": "Самара, проспект Кирова, 320к1",
+    "lat": 53.254618,
+    "long": 50.218429,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.254618, "long": 50.218429 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 29756,
+    "name": "Автовесна",
+    "description": "Самарская компания Автовесна  группа профессионалов, ежедневно доказывающая, что даже самое заурядное средство передвижения может иметь привлекательный внешний вид. Полировка кузова и других частей автомобиля  главное, но не единственное направление деятельности компании.\r\nКомпания Автовесна выполняет полировку кузова, ликвидирует кузовные вмятины без нарушения слоя краски, устранение трещин, сколов лобового стекла, продажу и профессиональную установку автостекла,полировка фар,нанообработка.",
+    "address": "Самара, улица Авроры, 148Б",
+    "lat": 53.20919,
+    "long": 50.187761,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.20919, "long": 50.187761 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 18238,
+    "name": "ООО Сервис Центр Колорит",
+    "description": "Максим    ТОЛЬКО КУЗОВНОЙ\n\nС нашими материалами Ваша машина будет как новая \n\nООО Сервис Центр Колорит работает в сфере поставки расходных материалов и оборудования для кузовного ремонта в Самаре.\n\nНаши направления:\n\nПодбор автоэмалей.\n\nПродажа расходных материалов для кузовного ремонта.\n\nПродажа оборудования для автосервиса.\n\nРемонт и обслуживание оборудования для автосервиса.\n\nКомплексное снабжение автосалонов, автомагазинов, фирм, станций технического обслуживания - наша задача.",
+    "address": "Самара, Партизанская улица, 17А",
+    "lat": 53.19201,
+    "long": 50.166579,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.19201, "long": 50.166579 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 51259,
+    "name": "Пиратская станция",
+    "description": "Частник\nНа заявки отвечает сам",
+    "address": "Самара, Партизанская улица, 11",
+    "lat": 53.193,
+    "long": 50.164729,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.193, "long": 50.164729 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 54836,
+    "name": "Скиф-авто",
+    "description": "Все виды механического ремонта,ремонт АКПП, ДВС, рулевых реек, шумоизоляция автомобиля,доработка салонов автомобилей, шинный отель, шиномонтаж и многое другое",
+    "address": "Самара, проспект Масленникова, 4/1",
+    "lat": 53.214949,
+    "long": 50.153365,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.214949, "long": 50.153365 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 293541,
+    "name": "Вариатор-Самара",
+    "description": "Диагностика и ремонт Акпп, Вариаторов, dsg, CVT любых марок",
+    "address": "Аэропортовское ш., 1, Самара, Самарская обл., Россия, 443050",
+    "lat": 53.249672,
+    "long": 50.355276,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.249672, "long": 50.355276 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 637472,
+    "name": "Геометрия+",
+    "description": "",
+    "address": "ул. Товарная, 7П, Самара, Самарская обл., Россия, 443109",
+    "lat": 53.232171,
+    "long": 50.29503,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.232171, "long": 50.29503 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 824456,
+    "name": "Shinka_MK",
+    "description": "Наш автосервис выполнит  работы по заправке кондиционера и шиномонтажу",
+    "address": "ул. Олимпийская, 73, Самара, Самарская обл., Россия, 443051",
+    "lat": 53.254387,
+    "long": 50.295392,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.254387, "long": 50.295392 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4],
+      "weekdays_time": "08:00 - 20:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 607123,
+    "name": "Южное шоссе 5",
+    "description": "Шиномонтаж, ремонт стекол, ремонт подвески, диагностика, ремонт двигателя",
+    "address": "Самара, Самарская обл., Россия",
+    "lat": 53.241504,
+    "long": 50.221246,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.241504, "long": 50.221246 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 612780,
+    "name": "Олимпавто",
+    "description": "#ремонт #авто #самара #олимпийская #олимпавто Предоставляем услуги по ремонту и техническому обслуживанию автомобилей ваз, газ, паз, уаз и другие. Сдадим место для самостоятельного ремонта вашего авто: Аренда подъёмника 300р/час. Аренда смотровой ямы 200р/час. Бокс тёплый, светлый инструмент в наличии.  Олимпийская 73 89991706927",
+    "address": "ул. Олимпийская, 73, Самара, Самарская обл., Россия, 443051",
+    "lat": 53.257392,
+    "long": 50.301626,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.257392, "long": 50.301626 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 105554,
+    "name": "Автомакслидер",
+    "description": "Кузовной ремонт,  покраска, Raptor,  PlastiDip,  полировка",
+    "address": "Самара, Заводское шоссе 10",
+    "lat": 53.247511,
+    "long": 50.349745,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.247511, "long": 50.349745 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 852865,
+    "name": "Автосервис Литвинова",
+    "description": "Ремонт и замена любых элементов кузова, покраска авто. Локальная покраска.",
+    "address": "Черемшанская ул., 197А, Самара, Самарская обл., Россия, 443098",
+    "lat": 53.243119,
+    "long": 50.264346,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.243119, "long": 50.264346 },
+    "work_schedule": {
+      "days": [0, 1, 2, 3, 4, 5, 6],
+      "weekdays_time": "09:00 - 20:00",
+      "weekends_time": "09:00 - 20:00"
+    },
+    "has_promotion": false
+  },
+  {
+    "id": 600942,
+    "name": "Автосервис",
+    "description": "Механический ремонт\r\nРазвал- схождение",
+    "address": "ул. Калинина, 1А, Самара, Самарская обл., Россия, 443009",
+    "lat": 53.211098,
+    "long": 50.260434,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.211098, "long": 50.260434 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 604142,
+    "name": "МЕХАНИК63",
+    "description": "Ремонт легковых автомобилей",
+    "address": "ул. Профильная, 51, Самара, Самарская обл., Россия, 443022",
+    "lat": 53.190935,
+    "long": 50.238673,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.190935, "long": 50.238673 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 623632,
+    "name": "Автосервис М5",
+    "description": "",
+    "address": "пр. Карла Маркса, 248а, Самара, Самарская обл., Россия, 443011",
+    "lat": 53.223702,
+    "long": 50.205591,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.223702, "long": 50.205591 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 601671,
+    "name": "Пропан Авто",
+    "description": "Сертифицированный центр по установке ГБО",
+    "address": "ул. Академика Павлова, 74, Самара, Самарская обл., Россия, 443011",
+    "lat": 53.229038,
+    "long": 50.18155,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.229038, "long": 50.18155 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 607748,
+    "name": "Lazaret",
+    "description": "",
+    "address": "пр. Карла Маркса, 30, Самара, Самарская обл., Россия, 443013",
+    "lat": 53.199651,
+    "long": 50.151841,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.199651, "long": 50.151841 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 637574,
+    "name": "Автоангар",
+    "description": "",
+    "address": "ул. Луцкая, 16, Самара, Самарская обл., Россия, 443036",
+    "lat": 53.179542,
+    "long": 50.147169,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.179542, "long": 50.147169 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  },
+  {
+    "id": 974288,
+    "name": "Шинка на Московском, шиномонтажная мастерская",
+    "description": "",
+    "address": "",
+    "lat": 53.195538,
+    "long": 50.101783,
+    "rating": 0,
+    "review_count": 0,
+    "service_classification": {
+      "stars": 0,
+      "description": "Без оценки Uremont"
+    },
+    "service_rating": {
+      "rating": 0,
+      "avg_location_rate": 0,
+      "avg_qualification_rate": 0,
+      "avg_appearance_rate": 0,
+      "avg_repair_quality_rate": 0,
+      "avg_final_cost_rate": 0,
+      "favorite": "repair_quality_rate",
+      "review_count": 0
+    },
+    "work_types": [],
+    "coordinates": { "lat": 53.195538, "long": 50.101783 },
+    "work_schedule": { "days": [] },
+    "has_promotion": false
+  }
+]

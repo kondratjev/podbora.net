@@ -1,0 +1,40 @@
+{
+  "name": "kondratjev.ru",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "date-fns": "^2.15.0",
+    "leaflet": "^1.6.0",
+    "leaflet-geosearch": "^3.0.6",
+    "mobx": "^5.15.4",
+    "mobx-react": "^6.2.5",
+    "next": "9.5.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-leaflet": "^2.7.0",
+    "react-leaflet-markercluster": "^2.0.0",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.10.5",
+    "@types/leaflet-geosearch": "^2.7.1",
+    "@types/node": "^14.0.27",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-leaflet": "^2.5.2",
+    "@types/react-leaflet-markercluster": "^2.0.0",
+    "@types/styled-components": "^5.1.1",
+    "@zeit/next-css": "^1.0.1",
+    "babel-plugin-styled-components": "^1.11.0",
+    "next-images": "^1.4.1",
+    "prettier": "^2.0.5",
+    "typescript": "3.9.7"
+  },
+  "license": "ISC"
+}
